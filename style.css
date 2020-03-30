@@ -10,6 +10,12 @@ html {
     height: 100vh;
 }
 
+.row {
+    border: 1px solid rgba(0, 0, 0, 0.171);
+    border-radius: 15px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.336);
+}
+
 label {
     margin: 0 auto;
 }
@@ -31,13 +37,13 @@ label {
 th {
     width: 150px;
     height: 40px;
-    border: 1px solid rgb(99, 132, 255);
+    border: 1px solid rgba(99, 132, 255, 0.5);
     text-align: center;
     color: rgb(99, 132, 255);
 }
 
 th:hover {
-    background-color: rgb(99, 132, 255);
+    background-color: rgb(99, 133, 255);
 }
 
 a {
@@ -89,4 +95,10 @@ li {
 
 .lmi {
     margin-top: 350px;
+}
+
+i {
+    margin-right: 10px;
+    font-size: 20px;
+    color: rgb(255, 210, 11);
 }

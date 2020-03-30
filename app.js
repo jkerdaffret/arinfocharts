@@ -10,11 +10,11 @@ var chart = new Chart(lrsydev, {
             label: "Réussite à l'examen",
             backgroundColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             borderColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             data: [86, 14]
         }]
@@ -36,11 +36,11 @@ var chart = new Chart(lrsydes, {
             label: "Réussite à l'examen",
             backgroundColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             borderColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             data: [75, 25]
         }]
@@ -62,11 +62,11 @@ var chart = new Chart(lrsyi, {
             label: "Réussite à l'examen",
             backgroundColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             borderColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             data: [91, 9]
         }]
@@ -88,11 +88,11 @@ var chart = new Chart(lrsyb, {
             label: "Réussite à l'examen",
             backgroundColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             borderColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             data: [83, 17]
         }]
@@ -140,11 +140,11 @@ var chart = new Chart(ndes, {
             label: "Réussite à l'examen",
             backgroundColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             borderColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             data: [72, 28]
         }]
@@ -166,11 +166,11 @@ var chart = new Chart(ni, {
             label: "Réussite à l'examen",
             backgroundColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             borderColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             data: [77, 23]
         }]
@@ -192,11 +192,11 @@ var chart = new Chart(nb, {
             label: "Réussite à l'examen",
             backgroundColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             borderColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             data: [75, 25]
         }]
@@ -218,11 +218,11 @@ var chart = new Chart(lmdes, {
             label: "Réussite à l'examen",
             backgroundColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             borderColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             data: [78, 22]
         }]
@@ -244,11 +244,11 @@ var chart = new Chart(lmi, {
             label: "Réussite à l'examen",
             backgroundColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             borderColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             data: [79, 21]
         }]
@@ -294,12 +294,12 @@ var chart = new Chart(pdes, {
             label: "Réussite à l'examen",
             backgroundColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)',
+                'rgb(255, 210, 11)',
                 'rgb(132,132,132)'
         ],
             borderColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)',
+                'rgb(255, 210, 11)',
                 'rgb(132,132,132)'
         ],
             data: [7, 33, 60]
@@ -322,11 +322,11 @@ var chart = new Chart(pb, {
             label: "Réussite à l'examen",
             backgroundColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             borderColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             data: [78, 22]
         }]
@@ -372,11 +372,11 @@ var chart = new Chart(stnb, {
             label: "Réussite à l'examen",
             backgroundColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             borderColor: [
                 'rgb(99, 132, 255)',
-                'rgb(200, 132, 29)'
+                'rgb(255, 210, 11)'
         ],
             data: [75, 25]
         }]
